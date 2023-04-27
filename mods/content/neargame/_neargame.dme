@@ -1,0 +1,6 @@
+#ifndef MODPACK_NEARGAME
+#define MODPACK_NEARGAME
+// BEGIN_INCLUDE
+#include "neargame.dm"
+// END_INCLUDE
+#endif
